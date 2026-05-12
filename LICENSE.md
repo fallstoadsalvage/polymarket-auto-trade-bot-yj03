@@ -1,4 +1,4 @@
-# 
+# new Polymarket Module | liquidity-provision + sentiment-analysis is the best Polymarket module, featuring liquidity-provision and sentiment-analysis. Smart, fast, and optimized
 
 
 
